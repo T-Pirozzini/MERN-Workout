@@ -1,5 +1,5 @@
 const Workout = require('../models/workoutModel')
-const Mongoose = require('mongoose')
+// const Mongoose = require('mongoose')
 const { default: mongoose } = require('mongoose')
 
 // get all workouts
